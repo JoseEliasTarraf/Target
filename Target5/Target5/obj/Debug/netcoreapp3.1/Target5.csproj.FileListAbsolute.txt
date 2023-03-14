@@ -1,0 +1,14 @@
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.exe
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.deps.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.runtimeconfig.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.runtimeconfig.dev.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\bin\Debug\netcoreapp3.1\Target5.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.csproj.AssemblyReference.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.AssemblyInfoInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.AssemblyInfo.cs
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.csproj.CoreCompileInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target5\Target5\obj\Debug\netcoreapp3.1\Target5.genruntimeconfig.cache

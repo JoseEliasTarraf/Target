@@ -1,0 +1,14 @@
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.exe
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.deps.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.runtimeconfig.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.runtimeconfig.dev.json
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\bin\Debug\netcoreapp3.1\Target2.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.csproj.AssemblyReference.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.AssemblyInfoInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.AssemblyInfo.cs
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.csproj.CoreCompileInputs.cache
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.dll
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.pdb
+C:\Users\neto_\OneDrive\Área de Trabalho\Repos\Target2\Target2\obj\Debug\netcoreapp3.1\Target2.genruntimeconfig.cache
